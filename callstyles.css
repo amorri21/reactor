@@ -1,0 +1,137 @@
+/*Neon Green: #6FFF00
+Neon Pink: #FF00FF
+Neon Yellow: #FFFF00
+Neon Blue: #4D4DFF
+Neon Red: #FE0001
+Neon Orange: #FF4105
+Neon Purple: #993CF3*/
+
+.verticalLine {
+    border-left:thick solid #993CF3;
+}
+.background {
+	background: #6E7678;
+}
+.submitGas{
+	background-color: #6FFF00;
+	border-bottom:solid;
+	border-left: #FFEEEE;
+	border-right:solid;
+	border-top: #EEEEEE;
+	color: black;
+	font-family: Verdana, Arial;
+	font-weight:bold;
+}
+.submitFurnace{
+	background-color: #FE0001;
+	border-bottom:solid;
+	border-left: #FFEEEE;
+	border-right:solid;
+	border-top: #EEEEEE;
+	color: black;
+	font-family: Verdana, Arial;
+}
+.submitStart{
+	background-color: #6FFF00;
+	border-bottom:solid;
+	border-left: #FFEEEE;
+	border-right:solid;
+	border-top: #EEEEEE;
+	color: black;
+	font-family: Verdana, Arial;
+	height:25px;
+	width:50px;
+	font-weight:bold;
+}
+.submitStop{
+	background-color: #FF4105;
+	border-bottom:solid;
+	border-left: #FFEEEE;
+	border-right:solid;
+	border-top: #EEEEEE;
+	color: black;
+	font-family: Verdana, Arial;
+	height:25px;
+	width:50px;
+	font-weight:bold;
+}
+.submitDownload{
+	background-color: #FF00FF;
+	border-bottom:solid;
+	border-left: #FFEEEE;
+	border-right:solid;
+	border-top: #EEEEEE;
+	color: black;
+	font-family: Verdana, Arial;
+	font-weight:bold;
+}
+
+.submitTrun{
+	background-color: #FF4105;
+	border-bottom:solid;
+	border-left: #FFEEEE;
+	border-right:solid;
+	border-top: #EEEEEE;
+	color: black;
+	font-family: Verdana, Arial;
+	font-weight:bold;
+}
+.mainTitle{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	color: #FFFF00;
+	font-weight:bold;
+	text-decoration:underline;
+}
+.sectionTitle{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	color: #000000;
+	text-decoration:underline;
+	font-weight:bold;
+}
+.subtitle{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #000000;
+	font-weight:bold;
+}
+.value{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #FE0001;
+	text-decoration:underline;
+	font-weight:bold;
+	text-align:right;
+}
+.parameter{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #000000;
+	font-weight:bold;
+	text-align:left;
+}
+.sampleid{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 8px;
+	background-color: #ffffff;
+	color: black;
+	height:18px;
+	}
+.reactoruse{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 8px;
+	background-color: #ffffff;
+	color: black;
+	height:18px;
+	}
+.submitShut{
+	background-color: #6FFF00;
+	border-bottom:solid;
+	border-left: #FFEEEE;
+	border-right:solid;
+	border-top: #EEEEEE;
+	color: black;
+	font-family: Verdana, Arial;
+	font-weight:bold;
+}
